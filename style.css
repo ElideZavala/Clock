@@ -26,6 +26,7 @@ html.dark {
 body {
 	font-family: 'Heebo', sans-serif;
 	display: flex;
+	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
@@ -132,5 +133,5 @@ body {
 	justify-content: center;
 	line-height: 18px;
 	transition: all 0.5s ease-in;
-	
+	font-size: 12px;
 }
